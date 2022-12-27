@@ -1,5 +1,5 @@
-# MoodDetectionApp
-Mood Detection with AWS Rekognition
+# BioMID
+Facial Recognition & Detection Analyser
 
 # Corresponding Article
-https://towardsdatascience.com/building-an-emotion-detection-application-54697de9ae01
+Images/face.jpg
